@@ -2,4 +2,4 @@
 
 ## 安装
 
-> composer require topthink/think-filesystem
+> composer require cnerstudio/topthink-filesystem
