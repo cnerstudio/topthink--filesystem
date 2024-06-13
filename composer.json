@@ -1,5 +1,5 @@
 {
-    "name": "topthink/think-filesystem",
+    "name": "cnerstudio/topthink-filesystem",
     "description": "The ThinkPHP6.1 Filesystem Package",
     "type": "library",
     "license": "Apache-2.0",
